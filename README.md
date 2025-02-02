@@ -5,7 +5,7 @@ This repository integrates CI/CD practices to facilitate seamless and automated 
 
 ## Overview
 
-The Tech Quiz Application is a fully functional quiz app built using the MERN stack (MongoDB, Express.js, React, and Node.js). This code was implimented by using Continuous Integration (CI) and Continuos Deployment (CD) o ensure consistency, quality, and deployment of latest code once all checks have been met and merged to main. It allows users to answer 10 random tech-related questions and view their final scores. This project includes testing enhancements with Cypress, ensuring the app's reliability through component and end-to-end testing.
+The Tech Quiz Application is a fully functional quiz app built using the MERN stack (MongoDB, Express.js, React, and Node.js). This code was implimented by using Continuous Integration (CI) and Continuos Deployment (CD) to ensure consistency, quality, and deployment of latest code once all checks have been met and merged to main. It allows users to answer 10 random tech-related questions and view their final scores. This project includes testing enhancements with Cypress, ensuring the app's reliability through component and end-to-end testing.
 
 ---
 
