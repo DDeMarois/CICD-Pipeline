@@ -64,7 +64,15 @@ The Tech Quiz Application is a fully functional quiz app built using the MERN st
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
+
+---
+
+## Deployment
+
+live URL on Render: https://cicd-pipeline-03yf.onrender.com/
+![Screenshot 2025-02-01 220323](https://github.com/user-attachments/assets/de61a6bf-3285-4d23-99e9-63858c1d3fc9)
+![Screenshot 2025-02-01 230522](https://github.com/user-attachments/assets/8f1ddd3a-8839-4da8-b4f3-7d5dd2898030)
 
 ---
 
